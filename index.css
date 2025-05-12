@@ -1,0 +1,16 @@
+/* index.css */
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background-color: #fefce8;
+  color: #111827;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+button {
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
